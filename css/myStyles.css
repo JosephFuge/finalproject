@@ -1,0 +1,16 @@
+.site-heading-upper {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:burlywood !important;
+  }
+
+.site-heading-lower {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.intro-img {
+    width: 50% !important;
+}
+
+.myFooterText {
+    font-style: italic;
+}
